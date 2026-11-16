@@ -534,8 +534,6 @@ body{margin:0}
 .ft a:focus-visible{outline:2px solid #FFFFFF;outline-offset:2px}
 .ft .soc:hover{background:#3A2826}
 
-.ov[hidden]{display:none}
-
 body{margin:0}
 a{color:#733635}a:hover{color:#1E1110}
 h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}
