@@ -77,8 +77,11 @@
 .u-f4074b7.u-f4074b7{font-size: 12px; line-height: 16px; font-weight: 600; color: #1E1110; background: #F5F4ED; border-radius: 6px; padding: 6px 12px}
 .u-b0d1d0a.u-b0d1d0a{font-size: 12px; line-height: 16px; font-weight: 600; color: #F5F4ED; background: #2E1D1B; border-radius: 6px; padding: 6px 12px}
 .u-b2f61c2.u-b2f61c2{display: flex; gap: 8px; align-items: center; font-size: 14px; line-height: 20px; color: #F5F4ED}
-.u-0743c1b.u-0743c1b{display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between; font-size: 12px; line-height: 16px; color: #B5A9A5}
-.u-d1d62d7.u-d1d62d7{display: flex; gap: 16px}
+.u-4fca33c.u-4fca33c{display: flex; flex-direction: column; gap: 16px; justify-content: center; align-items: center; text-align: center; font-size: 12px; line-height: 16px; color: #B5A9A5}
+.u-cb053b0.u-cb053b0{display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: center; justify-content: center}
+.u-c58ddef.u-c58ddef{display: flex; flex-wrap: wrap; justify-content: center; gap: 16px}
+.u-fc048c3.u-fc048c3{display: block; line-height: 0}
+.u-a7d59b2.u-a7d59b2{display: block; width: 107px; height: 37px}
 .u-9c7b58b.u-9c7b58b{max-width: 1280px; margin: 0 auto; padding: 48px 24px 96px; box-sizing: border-box; display: flex; flex-direction: column; gap: 48px}
 .u-8886d5c.u-8886d5c{display: flex; flex-direction: column; gap: 16px; max-width: 680px}
 .u-8773c60.u-8773c60{font-size: 14px; line-height: 20px; font-weight: 600; color: #733635}
