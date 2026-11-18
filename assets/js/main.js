@@ -6,7 +6,7 @@
   'use strict';
   var DC = {};
   var PAGES = {
-    'Main.dc.html': 'index.html', 'Produtos.dc.html': 'produtos.html', 'Produto.dc.html': 'produto.html',
+    'Main.dc.html': 'index.html', 'Produtos.dc.html': 'produtos.html', 'Produto.dc.html': 'produto.html', 'ProdutoVariacao.dc.html': 'produto-chuveiro.html', 'ProdutoDucha.dc.html': 'produto-ducha.html', 'ProdutoPendente.dc.html': 'produto-pendente.html',
     'QuemSomos.dc.html': 'quem-somos.html', 'Cases.dc.html': 'cases.html', 'Blog.dc.html': 'blog.html',
     'BlogPost.dc.html': 'blog-artigo.html', 'Contato.dc.html': 'contato.html',
     'VendaEmpresas.dc.html': 'venda-para-empresas.html', 'GrupoVip.dc.html': 'grupo-vip.html',
